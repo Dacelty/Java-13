@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="denpendency" />
+        <module name="web" />
+        <module name="basicweb" />
+        <module name="injection-dependency" />
+        <module name="dataanalysis" />
+        <module name="parsejson" />
+        <module name="crud_rest" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="basicweb" target="17" />
+      <module name="crud_rest" target="17" />
+      <module name="dataanalysis" target="16" />
+      <module name="denpendency" target="17" />
+      <module name="injection-dependency" target="17" />
+      <module name="parsejson" target="16" />
+      <module name="web" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="basicweb" options="-parameters" />
+      <module name="crud_rest" options="-parameters" />
+      <module name="dataanalysis" options="-parameters" />
+      <module name="denpendency" options="-parameters" />
+      <module name="injection-dependency" options="-parameters" />
+      <module name="parsejson" options="-parameters" />
+      <module name="web" options="-parameters" />
+    </option>
+  </component>
+</project>

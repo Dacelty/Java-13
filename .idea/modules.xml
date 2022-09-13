@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-12.iml" filepath="$PROJECT_DIR$/.idea/Java-12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 2/basicweb/basicweb.iml" filepath="$PROJECT_DIR$/Day 2/basicweb/basicweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 3/Part2/crud_rest.iml" filepath="$PROJECT_DIR$/Day 3/Part2/crud_rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 3/dataanalysis/dataanalysis.iml" filepath="$PROJECT_DIR$/Day 3/dataanalysis/dataanalysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 1/denpendency/denpendency.iml" filepath="$PROJECT_DIR$/Day 1/denpendency/denpendency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 1/injection-dependency/injection-dependency.iml" filepath="$PROJECT_DIR$/Day 1/injection-dependency/injection-dependency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 2/parsejson/parsejson.iml" filepath="$PROJECT_DIR$/Day 2/parsejson/parsejson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 3/book/web.iml" filepath="$PROJECT_DIR$/Day 3/book/web.iml" />
+    </modules>
+  </component>
+</project>
